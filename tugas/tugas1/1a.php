@@ -11,6 +11,6 @@ $Bundar = "Bundar";
     <title>Document</title>
 </head>
 <body>
-    <h2><i><?php echo "$Topi Saya $Bundar, $Bundar $Topi Saya" ?></i></h2>
+    <h2><i><?php echo "$Topi Saya $Bundar, $Bundar $Topi Saya." ?></i></h2>
 </body>
 </html>
